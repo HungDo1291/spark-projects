@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db42e5f6-22b7-4b5f-b974-a85d5f5b5468" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jJGOMr56hZClCnUcqKTJFYcqKs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01-HelloSpark" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db42e5f6-22b7-4b5f-b974-a85d5f5b5468" name="Default Changelist" comment="" />
+      <created>1603514747955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603514747955</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="843" y="243" key="FileChooserDialogImpl" timestamp="1603514904829">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="843" y="243" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1603514904829" />
+    <state x="508" y="133" key="SettingsEditor" timestamp="1603514896890">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="508" y="133" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1603514896890" />
+  </component>
+</project>
